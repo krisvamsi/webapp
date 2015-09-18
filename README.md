@@ -9,4 +9,4 @@ Apache 2.0
 
 ## Copyright
 
-Copyright Docker Inc Education Team 2014 <hello@docker.com>
+Copyright Docker Inc Education Team 2014 <hello1@docker.com>
